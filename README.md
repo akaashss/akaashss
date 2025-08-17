@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Akaash 👋  
 
-<!--
-**akaashss/akaashss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore @ IIT Guwahati | Mechanical Engineering (Minor in ECE)  
+⚡ Interests: Electric Vehicles, Robotics, Mechatronics, Thermal Systems  
+🚀 Vice-Captain @ IITG Racing (Formula Student Electric Team)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio & Links
+- Personal Website: [akaashss.github.io](https://akaashss.github.io)  
+- LinkedIn: [linkedin.com/in/akaashss](https://linkedin.com/in/akaashss)  
+
+---
+
+### 🔧 Projects
+- [Motor Cooling System Design](link_to_repo_if_public)  
+- [Aerodynamic Package for FSEV](link_to_repo_if_public)  
+- [Delta Robot Kinematic Modeling](link_to_repo_if_public)  
+
+---
+
+💡 *Always open to collaborations in EV systems, robotics, and control algorithms.*  
